@@ -163,14 +163,10 @@ When the user chooses `3`, display:
 Goodbye!
 ```
 
-Then end the program.
-
-Read the instructions below carefully to complete your project. Ensure your code follows proper style guidelines. 
-
 <details>
 <summary> </summary>
 Option 4: Displays "Secret invisible option" when the user enter 4. Should not be visible in the menu.
-</details>
+</details>Then end the program.
 
 ## Example Run
 
