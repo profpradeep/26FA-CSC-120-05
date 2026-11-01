@@ -9,7 +9,6 @@ Your program will give the user a menu with three choices:
 ```text
 1. Convert binary to decimal
 2. Convert decimal to binary
- <span style="opacity: 0;">2.5. "This menu option should not display, but should be handled".</span> 
 3. Exit
 ```
 
